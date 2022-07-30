@@ -2,7 +2,7 @@
 A project for itmokers website,app,wechat-micropragram...
 
 
-# wechat 
+# wechat official account
 it墨客圈
 
 
